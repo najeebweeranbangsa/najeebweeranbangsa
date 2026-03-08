@@ -17,8 +17,9 @@ As the **Founder of WAVEBRIGE LLC** and **The Hackers Magazine**, I specialize i
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Development** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| **Development** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 | **Automation** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![GHL](https://img.shields.io/badge/GoHighLevel-2563EB?style=flat&logo=google-cloud&logoColor=white) |
+| **Marketing & Growth** | ![Meta Ads](https://img.shields.io/badge/Facebook_&_IG_Ads-%231877F2.svg?style=flat&logo=meta&logoColor=white) Strategic Growth & Lead Gen |
 | **Quality Assurance** | ![ISTQB](https://img.shields.io/badge/ISTQB-E1251B?style=flat&logo=testin&logoColor=white) Manual & Automated Testing |
 | **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) Self-hosting, Micro-SaaS, IVR Systems |
 
