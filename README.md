@@ -1,4 +1,4 @@
-# 👋 I'm Najeeb Weerabangsa
+# 👋 I'm NAJEEB WEERABANGSA
 ### **Founder & CEO | MSc in Computer Science Student | Software QA Engineer**
 
 ---
