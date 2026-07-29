@@ -1,5 +1,5 @@
 # 👋 I'm NAJEEB WEERABANGSA
-### **Founder & CEO | MSc in Computer Science Student | Software QA Engineer**
+### ** MSc in Computer Science Student | Software QA Engineer**
 
 ---
 
@@ -7,7 +7,6 @@
 As the **Founder of WAVEBRIGE LLC** and **The Hackers Magazine**, I specialize in building scalable AI automation and ensuring software excellence. I am a **Top-Rated Freelancer** on Upwork with a **100% Job Success Score**, currently advancing my academic research through an **MSc in Computer Science** at the University of Sri Jayewardenepura.
 
 * 🏢 **Founder & CEO:** [WAVEBRIGE LLC](https://www.linkedin.com/in/najeeb-weerabangsa/)
-* 📰 **Editor-in-Chief:** [The Hackers Magazine](https://medium.com/@najeebweerabangsa)
 * 🎓 **Academic:** MSc CS Candidate (USJP) | BSc Computer Science
 * 🛠️ **Current Focus:** Agentic AI, n8n Workflows, & ISTQB-standard QA
 
@@ -28,7 +27,6 @@ As the **Founder of WAVEBRIGE LLC** and **The Hackers Magazine**, I specialize i
 ## 🌐 Connect & Collaborate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/najeeb-weerabangsa/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@najeebweerabangsa)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/najeebweerabangsa/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/najeebweerabangsa)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94768815882)
